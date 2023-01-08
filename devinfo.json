@@ -1,0 +1,7 @@
+{
+    "project":"Telegram Notifier",
+    "base":"flask",
+    "developer":"kksonakiya",
+    "username":"kksonakiya",
+    "password": 123456
+}
